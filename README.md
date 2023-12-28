@@ -16,7 +16,7 @@ create value for myself and others. It has to mean something.
     - Visual Studio Code
 
 ## 🌱 I’m currently learning
-    - More advanced Python 
+More advanced Python 
 
 ## 👨‍💻 Projects
 1. Nybolig webscraper (https://github.com/Tobber99/Nybolig_webscraper):
