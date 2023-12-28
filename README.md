@@ -1,40 +1,38 @@
-### Hi there 👋
+# Hello, I'm Tobias 👋
 
-# Hello, I'm [Your Name] 👋
-
-Passionate [Your Profession] | Aspiring [Any Other Interests] | Open Source Enthusiast
-
-Welcome to my GitHub profile! I'm [Your Name], a [Your Profession] based in [Your Location]. I'm enthusiastic about [Your Main Interests or Skills], and I enjoy working on projects that [Briefly Describe Your Motivation or Goals].
+Welcome to my GitHub profile! I'm Tobias, a economy student based in Aarhus, Denmark. I'm enthusiastic about Python and Data analysis, and I enjoy working on projects that
+create value for myself and others. It has to mean something.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [List of Programming Languages]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Databases:** [List of Databases]
-- **Tools & IDEs:** [List of Tools and IDEs]
+- **Languages:**
+    - Python
+    - Basic HTML & CSS
+- **Frameworks & Libraries:** 
+    - BeautifulSoup4
+    - Pandas
+    - Matplotlib
+- **Tools & IDEs:**
+    - Visual Studio Code
 
 ## 🌱 I’m currently learning
-
-[Current Learning Focus or Projects]
+    - More advanced Python 
 
 ## 👨‍💻 Projects
+1. Nybolig webscraper (https://github.com/Tobber99/Nybolig_webscraper):
+    - Built the webscraper so i could try some hands-on data analysis.
 
-Here are a few projects I'm proud of:
+## ✨ Upcoming
+I am currently working on a bigger webscraper, which will let the user(me) compare way more things and interesting findings. 
 
-1. [Project 1 Name](Link to Project 1): Brief description.
-2. [Project 2 Name](Link to Project 2): Brief description.
-3. ...
 
 ## 📫 Get in touch
+- LinkedIn: https://www.linkedin.com/in/tobias-lykke-krogh-07a383253/
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Handle](Link to Twitter)
-- Website: [Your Personal Website or Blog](Link to Website)
-
-## 😄 Fun Facts
-
-- Favorite Emoji: 🚀
-- Hobbies: [Your Hobbies]
-- Fun Fact: [Interesting Fact about Yourself]
+## 😄 More about me 
+- Hobbies:
+    - Working out (4-5 times per week)
+    - Learning programming (hopefully make it my profession)
+    - Bettering myself
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or just want to chat. 😊
