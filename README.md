@@ -16,18 +16,15 @@ create value for myself and others. It has to mean something.
     - Visual Studio Code
 
 ## 🌱 I’m currently learning
-More advanced Python 
+More about machine learning
 
 ## 👨‍💻 Projects
-1. Nybolig webscraper (https://github.com/Tobber99/Nybolig_webscraper):
+1. Nybolig webscraper :
     - Built the webscraper so i could try some hands-on data analysis.
-
-## ✨ Upcoming
-I am currently working on a bigger webscraper, which will let the user(me) compare way more things and interesting findings. 
-
 
 ## 📫 Get in touch
 - LinkedIn: https://www.linkedin.com/in/tobias-lykke-krogh-07a383253/
+- Email: Tobias.lykke1210@gmail.com
 
 ## 😄 More about me 
 - Hobbies:
