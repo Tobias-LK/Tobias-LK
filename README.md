@@ -21,6 +21,8 @@ More about machine learning
 ## 👨‍💻 Projects
 1. Nybolig webscraper :
     - Built the webscraper so i could try some hands-on data analysis.
+2. Iris Species Classification
+    - My first entry into the machine learning world, trying hands-on classification with the famous Iris dataset.
 
 ## 📫 Get in touch
 - LinkedIn: https://www.linkedin.com/in/tobias-lykke-krogh-07a383253/
