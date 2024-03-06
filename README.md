@@ -7,11 +7,13 @@ create value for myself and others. It has to mean something.
 
 - **Languages:**
     - Python
+    - SQL
     - Basic HTML & CSS
 - **Frameworks & Libraries:** 
     - BeautifulSoup4
     - Pandas
     - Matplotlib
+    - Sklearn
 - **Tools & IDEs:**
     - Visual Studio Code
 
