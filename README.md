@@ -19,7 +19,7 @@ create value for myself and others. It has to mean something.
 
 ## 🌱 I’m currently learning
     - More about machine learning
-    - SQL (MySQL)
+    - SQL --> MySQL
 
 ## 👨‍💻 Projects
 1. Nybolig webscraper :
