@@ -23,6 +23,8 @@ More about machine learning
     - Built the webscraper so i could try some hands-on data analysis.
 2. Iris Species Classification
     - My first entry into the machine learning world, trying hands-on classification with the famous Iris dataset.
+3. Apple Quality - A Classification problem
+    - First time creating a Jupyter Notebook for a Machine Learning problem. 
 
 ## 📫 Get in touch
 - LinkedIn: https://www.linkedin.com/in/tobias-lykke-krogh-07a383253/
