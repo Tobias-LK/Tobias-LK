@@ -20,8 +20,8 @@ create value for myself and others. It has to mean something.
     - Visual Studio Code
 
 ## 🌱 I’m currently learning
-    - More about machine learning
     - SQL --> MySQL
+    - Using the OS-module together with openpyxl & pandas
 
 ## 👨‍💻 Projects
 1. Nybolig webscraper :
