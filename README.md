@@ -32,8 +32,8 @@ create value for myself and others. It has to mean something.
     - First time creating a Jupyter Notebook for a Machine Learning problem.
 4. Image Converter (Work related)
     - I automated the process of converting product images from AVIF, PNG, JFIF and more to JPG. (Saves me about 1-2 min pr. picture.)
-5. Data cleaning script
-    - I have created a temporary script for cleaning some data, which needs to be uploaded every week. (Temporary solution for 3+ months now)
+5. Data cleaning script (Work related)
+    - I have created a script for cleaning incoming data from suppliers. The data is being uploaded weekly. Went from temporary to permanent solution.
 
 ## 📫 Get in touch
 - LinkedIn: https://www.linkedin.com/in/tobias-lykke-krogh-07a383253/
